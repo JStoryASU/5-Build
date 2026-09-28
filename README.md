@@ -4,5 +4,5 @@ The Indie Film Collective is multi-page webpage meant to promote the festival an
 The HTML is semantic and validated.
 The CSS is responsive.
 There is no javascript.
-The published web URL is: 
+The published web URL is: https://jstoryasu.github.io/5-Build/
 Written content for this website was generated with the assistance of ChatGPT and reviewed and edited by the student Justin Story. All HTML, CSS, and JavaScript were written by the student Justin Story.
